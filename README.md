@@ -1,4 +1,5 @@
-👋 Hi, I'm Kusuma Yadav B!<br>🎓 Currently pursuing my MCA at PES University.<br>💻 Passionate about Software Engineering and always eager to learn new technologies.<br>🌱 Currently working on enhancing my skills in coding, data analysis, and machine learning.<br>🚀 Looking forward to contributing to exciting projects and collaborating with fellow developers!<br><br>Feel free to reach out and connect! 😊
+# 💫 Kusuma Yadav B
+🎓 Currently pursuing my MCA at PES University.<br>💻 Passionate about Software Engineering and always eager to learn new technologies.<br>🌱 Currently working on enhancing my skills in coding, data analysis, and machine learning.<br>🚀 Looking forward to contributing to exciting projects and collaborating with fellow developers!<br><br>Feel free to reach out and connect! 😊
 
 
 ## 🌐 Socials:
